@@ -9,7 +9,7 @@ This repository contains a Python script for a Telegram bot capable of processin
 
 - **How to get Token:**
   - Search for BotFather in Telegram.
-  - Use the command /newbot and follow the instructions to generate your bot token.
+  - Use the command */newbot* and follow the instructions to generate your bot token.
   
 - **Voice-to-Text Conversion:**
   - Handles incoming voice messages and converts them to text using Google's SpeechRecognition API.
